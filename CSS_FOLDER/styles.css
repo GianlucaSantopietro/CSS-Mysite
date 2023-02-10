@@ -41,7 +41,7 @@ h3 {
     position: absolute;
     left: 300px;
     bottom: 300px;
-
+    
 }
 
 .top_cloud {
@@ -141,3 +141,30 @@ hr {
   p {
     padding: 20px;
   }
+
+.footer-link{
+    text-decoration: none;
+}
+
+.btn{
+    text-decoration: none;
+    color: azure;
+    
+}
+
+.skill_link:hover{
+    text-decoration: none;
+    text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+.skill_link{
+    text-decoration: none;
+}
+
+table {
+    position: relative;
+    margin: 100px auto 100px auto;
+}
+
+td {
+    padding: 5px;
+}
